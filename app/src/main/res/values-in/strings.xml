@@ -1,0 +1,93 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<resources>
+    <string name="app_name" translatable="false">StoryApp</string>
+
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="copyright" translatable="false">©2022 AkhmadAldi</string>
+    <string name="name">Nama</string>
+
+
+    <string name="welcomeDesc">ini adalah gambar halaman selamat datang</string>
+    <string name="titleWelcomePage">Selamat datang di Story App Dicoding!</string>
+    <string name="messageWelcomePage">Bagikan pengalaman berhargamu selama mengikuti kampus mandiri MSIB batch 3 di Dicoding Indonesia</string>
+
+
+    <string name="emailHint">Email</string>
+    <string name="passwordHint" translatable="false">Kata Sandi</string>
+    <string name="LoginDesc">ini adalah gambar halaman login</string>
+    <string name="titleLoginPage">Siap untuk berbagi cerita Anda dengan teman-teman</string>
+    <string name="messageLoginPage">tapi kamu harus login dulu ya!</string>
+    <string name="alertTitle">Yeayyyy!</string>
+    <string name="alertMessage">Anda telah berhasil login. Sudah tidak sabar untuk berbagi cerita?</string>
+    <string name="alertPositive">Ayo lanjutkan</string>
+    <string name="wrongEmailPassword">Email atau password salah</string>
+    <string name="emailDesc">Masukkan email Anda</string>
+    <string name="passwordDesc">Masukkan Password Anda</string>
+
+
+
+    <string name="nameHint">Buat nama Anda</string>
+    <string name="emailHintReg"> Buat email Anda</string>
+    <string name="passwordHintReg">Buat Password Anda</string>
+    <string name="titleSignUpPage">Isi data diri Anda di bawah ini untuk mendaftar</string>
+    <string name="RegisterDesc">ini adalah gambar halaman Daftar</string>
+    <string name="alertMessageRegister">Akun telah dibuat! Mulai login untuk menambahkan cerita Anda sendiri.</string>
+    <string name="alertPositiveRegister">lanjutkan</string>
+    <string name="failureMessage">Gagal mendapatkan tanggapan</string>
+    <string name="emailError">email sudah ada digunakan</string>
+    <string name="nameEmptyError">Ketik Nama Anda</string>
+    <string name="emailEmptyError">Ketik Email Anda</string>
+    <string name="emailFormatError">Format Email salah</string>
+    <string name="passwordEmptyError">ketik Password Anda</string>
+    <string name="passwordLengthError">Min. terdapat 6 karakter</string>
+
+
+    <string name="floatingMainDesc">ini adalah tombol float untuk membuat cerita</string>
+    <string name="menuTranslate">terjemahan</string>
+    <string name="menuLogout">keluar</string>
+    <string name="notFound">Tidak ditemukan</string>
+    <string name="fetchedSuccess">Cerita berhasil dimuat</string>
+    <string name="listStories">list Cerita</string>
+
+
+    <string name="noPhotos">foto akan muncul di sini</string>
+    <string name="camera">kamera</string>
+    <string name="gallery">galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="cameraDesc">tombol untuk mengambil gambar dengan kamera</string>
+    <string name="galleryDesc">tombol untuk mengambil gambar dari galeri</string>
+    <string name="permissionDenied">Akses ditolak</string>
+    <string name="inputImageFileFirst">Silahkan masukan file gambar anda terlebih dahulu</string>
+    <string name="storyCreated">Cerita berhasil dibuat</string>
+    <string name="ImgFail">Gagal membaca gambar</string>
+    <string name="chooseAPic">Pilih Gambar</string>
+    <string name="hint_description">Tuliskan Ceritamu</string>
+
+
+    <string name="firstLetter">t</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="storyPhotoInDetail">Foto cerita secara detail</string>
+    <string name="detailStory">Detail Cerita</string>
+
+
+    <string name="switchCamera">Ganti Kamera</string>
+    <string name="captureImage">Ambil Gambar</string>
+    <string name="failedTakePic">Gagal mengambil gambar</string>
+    <string name="failShowCamera">Gagal menampilkan kamera</string>
+
+
+    <string name="storyPhotoInList">Item foto cerita dalam daftar</string>
+    <string name="titleGallery">galeri</string>
+    <string name="titleCamera">kamera</string>
+    <string name="Desc">loremipsum kemana kemari</string>
+
+    <string name="noFile">Silahkan Masukkan gambar terlebih dahulu</string>
+    <string name="noDescription">Silakan isi ceritamu terlebih dahulu</string>
+
+    <string name="alertTittleLogout">Aku tanya</string>
+    <string name="alertMassageLogout">Apa kamu siap meninggalkan aplikasi ini</string>
+    <string name="positiveLogout">ya dong</string>
+    <string name="negativeLogout">Tidak jadi</string>
+
+</resources>
